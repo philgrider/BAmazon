@@ -16,3 +16,5 @@ mysqlPassword = Password
 2. Allow manager to view low stock items.
 3. Allow manager to add stock quantity.
 4. Allow manager to add new items.
+
+https://github.com/philgrider/BAmazon/tree/master/Video
